@@ -1,16 +1,17 @@
 body {
   /* Visual */
-  background-color: #e4f0d0;
+  background-color: #9c1f1e;
 }
 
 header {
   /* Visual */
-  background-color: #c2d8b9;
+  background-color: black;
 }
 
 h1 {
   /* Visual */
   padding: 15px;
+  color: #9c1f1e;
 
   /* Typography */
   font-size: 36px;
@@ -233,3 +234,4 @@ li {
   /* Visual */
   background-color: #d3d3d3;
 }
+
