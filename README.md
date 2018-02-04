@@ -1,7 +1,5 @@
 # RPS
 
-# RPS
-
 This is multiplayer Rock Paper Scissors game.
 
 Only two users can play at the same time.
